@@ -1,0 +1,17 @@
+DDA line
+https://www.gatevidyalay.com/tag/dda-algorithm-example-pdf/
+
+Bre LDA line
+https://www.gatevidyalay.com/bresenham-line-drawing-algorithm/
+
+mid point circle
+https://www.gatevidyalay.com/mid-point-circle-drawing-algorithm/
+
+bre circle
+https://www.gatevidyalay.com/bresenham-circle-drawing-algorithm/
+
+scanline 
+https://www.tutorialspoint.com/computer_graphics/polygon_filling_algorithm.htm
+
+2D Translation
+https://www.gatevidyalay.com/2d-transformation-in-computer-graphics-translation-examples/
